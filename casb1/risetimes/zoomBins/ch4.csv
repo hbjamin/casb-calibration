@@ -1,0 +1,37 @@
+Model,MSO4034B
+Firmware Version,2.52
+
+Waveform Type,ANALOG
+Point Format,Y
+Horizontal Units,s
+Horizontal Scale,4e-07
+Horizontal Delay,3.62e-08
+Sample Interval,4e-10
+Record Length,10000
+Gating,50.1800% to 50.3300%
+Probe Attenuation,1
+Vertical Units,V
+Vertical Offset,0
+Vertical Scale,0.01
+Vertical Position,2.14
+,
+,
+,
+Label,
+TIME,CH1
+4.3400e-08,-0.0580047
+4.3800e-08,-0.0579516
+4.4200e-08,-0.0579141
+4.4600e-08,-0.0575891
+4.5000e-08,-0.0558266
+4.5400e-08,-0.0506531
+4.5800e-08,-0.0403453
+4.6200e-08,-0.0250953
+4.6600e-08,-0.00800938
+4.7000e-08,0.00670625
+4.7400e-08,0.0163609
+4.7800e-08,0.0202016
+4.8200e-08,0.0195453
+4.8600e-08,0.0160266
+4.9000e-08,0.0117469
+
